@@ -3,6 +3,7 @@ Desktop
 
 
 Consisting of
+
 10.1 inch DSI Capacitive Touch Display, 800×1280, IPS Panel, Optical Bonding Toughened Glass Panel, 10-Point Touch
 https://www.waveshare.com/10.1-dsi-touch-a.htm
 
